@@ -31,7 +31,7 @@ python age_calculator.py
 
 ## 🖼️ Example Output
 
-python```
+```bash
 
 ################################################################################
 ####### You Can Write The Frist Letter or Full Name of The Time Unit ###########
@@ -40,6 +40,6 @@ please Enter Your Age : 20
 Please Choose Time Unit : Monthes , Weeks , Days , Hours . d
 Your Age by Days = 7,300 Days 
 
-python```
+```
 
 
